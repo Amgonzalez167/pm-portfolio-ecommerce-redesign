@@ -1,0 +1,7 @@
+├── README.md                          <-- Portfolio Overview & Landing Page
+└── docs/
+    ├── 01-project-charter.md          <-- Copy of Confluence Page 01
+    ├── 02-raid-log.md                 <-- Copy of Confluence Page 02
+    ├── 03-sprint-planning-backlog.md  <-- Copy of Confluence Page 03
+    ├── 04-weekly-status-dashboard.md  <-- Copy of Confluence Page 04
+    └── 05-retrospective.md            <-- Copy of Confluence Page 05
