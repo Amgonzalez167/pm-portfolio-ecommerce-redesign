@@ -5,3 +5,27 @@
     ├── 03-sprint-planning-backlog.md  <-- Copy of Confluence Page 03
     ├── 04-weekly-status-dashboard.md  <-- Copy of Confluence Page 04
     └── 05-retrospective.md            <-- Copy of Confluence Page 05
+# 📱 E-Commerce Mobile App Redesign — PM Portfolio
+
+**Project Manager:** Amneris Gonzalez Peña  
+**Methodology:** Agile / Scrum  
+**Tools Used:** Confluence, Jira, Markdown  
+
+---
+
+## 📌 Executive Summary
+This repository showcases the complete project management lifecycle for a hypothetical e-commerce mobile app redesign aimed at reducing cart abandonment from 38% to 22%. 
+
+## 📂 Project Documentation Hierarchy
+Click any link below to view the full project artifacts built originally in Confluence:
+
+* 📄 [01. Project Charter & Scope](./docs/01-project-charter.md) — Executive summary, budget, and scope boundaries.
+* 🛡️ [02. RAID Log](./docs/02-raid-log.md) — Comprehensive Risk, Assumption, Issue, and Dependency tracking.
+* 🗓️ [03. Sprint Planning & Backlog](./docs/03-sprint-planning-backlog.md) — 6-sprint roadmap and user story breakdowns.
+* 📊 [04. Weekly Status Dashboard](./docs/04-weekly-status-dashboard.md) — RAG status reporting, metrics, and blocker escalation.
+* 🎯 [05. Retrospective & Lessons Learned](./docs/05-retrospective.md) — Post-launch analysis and final KPI impact.
+
+---
+
+## 📸 Confluence Screenshots
+*(Optional: Add full-page screenshots of your Confluence pages here to show off your wiki formatting skills!)*
